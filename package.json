@@ -1,0 +1,16 @@
+{
+  "name": "PublicHealth4U-2017",
+  "version": "0.1.0",
+  "description": "PublicHealth4U Web App",
+  "main": "server_p4u.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "body-parser": "~1.10.1"
+  }
+}
